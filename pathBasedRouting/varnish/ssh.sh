@@ -1,0 +1,1 @@
+docker exec -it varnish /bin/bash
